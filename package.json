@@ -1,6 +1,9 @@
 {
   "name": "angular2-meteor-base",
   "private": true,
+  "engines": {
+    "node": "4.4.7"
+  },
   "scripts": {
     "start": "meteor run",
     "test": "meteor test --driver-package practicalmeteor:mocha",
